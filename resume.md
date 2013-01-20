@@ -1,6 +1,8 @@
+<img align="right" alt="André Fiedler" src="https://secure.gravatar.com/avatar/15b9d6f69a8d8543968d5f16a9559af5?s=120" />
+
 # André Fiedler
 
-Crimmitschauer Straße 66 • 0805 Zwickau • Germany • andre.fiedler@me.com
+Crimmitschauer Straße 66 • 0805 Zwickau • Germany • andre.fiedler@me.com    
 
 ## Introduction
 
