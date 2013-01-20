@@ -14,7 +14,7 @@ I finished my degree with a theoretical and practical thesis on a new enterprise
 content management system (www.redaktoer.info).
 
 I startet working at a small Communication and Advertising Agency based in Zwickau, 
-Germany after I got my degree as Graduate Engineer (FH) in 2007. There I have been 
+Germany after I got my degree as Graduate Engineer (FH) in 2008. There I have been 
 working with a small team of 20 people (designers, developers, 3d artists and managers). 
 I worked as a web and application developer till now, with experience in a wide range of 
 industries, and a skillset which includes programming, UI/UX, graphic design, business 
@@ -55,3 +55,7 @@ Xing - https://www.xing.com/profile/Andre_Fiedler3
 Geeklist - http://geekli.st/andrefiedler  
 
 ## Education
+
+Hochschule Mittweida - University of Applied Sciences   
+Graduate Engineer (FH), Multimedia Technology   
+2002 – 2008   
