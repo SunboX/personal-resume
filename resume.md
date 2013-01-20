@@ -32,6 +32,9 @@ I have been building over the last decade.
 
 ## Objectives
 
+Build great apps, tools, features based on Web-Technology. Bring the Web foreward. Support the Open-Web and Open-Source-Developer community.
+To expand and increase my skill set by developing the web as platform/operation system.
+
 ## Skills
 
 ## Experience
