@@ -27,3 +27,21 @@ fan of the open source community and developed software with and for it.
 
 I love Web-Technology. It is my passion, and I want to continue developing the skills 
 I have been building over the last decade.
+
+## Objectives
+
+## Skills
+
+## Experience
+
+## Professional Interests
+
+## Social Media Involvement
+
+Twitter - https://twitter.com/sonnenkiste
+LinkedIn - http://www.linkedin.com/pub/andr%C3%A9-fiedler/63/a73/54a
+Facebook - http://www.facebook.com/andre.fiedler1
+Xing - https://www.xing.com/profile/Andre_Fiedler3
+Geeklist - http://geekli.st/andrefiedler
+
+## Education
