@@ -44,6 +44,18 @@ To expand and increase my skill set by developing the web as platform/operation 
 
 ## Experience
 
+**Work at ö_konzept - Agentur für Werbung und Kommunikation GmbH & Co. KG**
+//todo
+
+**SCANtickets.de**
+We were two persons, a manager and designer in one person and me. I got a user interaction and web layout 
+and build the content management system and website from ground up. The CMS doesn´t use any framework, except ADOdb for PHP.
+After this was done, I build a entry software (ticket validation) based on C#.
+SCANtickets works like ebay. A person can register and start selling self-printable event tickets. Before the event starts, 
+the user can download a so called "ticket-archive" (SQL Lite file). The C#-based entry software will open this database (offline).
+The visitors arrive with self-printed tickets, these get scanned and validated.
+
+
 ## Professional Interests
 
 ## Social Media Involvement
