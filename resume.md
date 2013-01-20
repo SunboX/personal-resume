@@ -37,6 +37,11 @@ To expand and increase my skill set by developing the web as platform/operation 
 
 ## Skills
 
+* 10 years of professional web and application development experience
+* 6 years of professional JavaScript development experience (with and without frameworks)
+* language and framework proficiencies: JavaScript, HTML, CSS, Mootools, ExtJS, Sencha Touch, PHP, MySQL, Cassandra, Git, XML, PhoneGap, fundamental C# and Java
+* ability to learn and implement new technologies, methods, and best practices quickly and easily
+
 ## Experience
 
 ## Professional Interests
