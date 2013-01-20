@@ -13,7 +13,7 @@ content management system (www.redaktoer.info).
 
 I startet working at a small Communication and Advertising Agency based in Zwickau, 
 Germany after I got my degree as Graduate Engineer (FH) in 2007. There I have been 
-working with a small team of 20 persons (designers, developers, 3d artists and managers). 
+working with a small team of 20 people (designers, developers, 3d artists and managers). 
 I worked as a web and application developer till now, with experience in a wide range of 
 industries, and a skillset which includes programming, UI/UX, graphic design, business 
 strategy and planning, and marketing. Throughout my career I have been privileged to 
